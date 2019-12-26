@@ -33,8 +33,8 @@ def choice(prompt, choices=('y', 'n')):
             if list(filter(lambda x: x in choices, choice)) == choice:
                 break
 
-        prompt = ("\nSomething is not right. Please mind the formatting and "
-                  "be sure to enter a valid option:\n>")
+        prompt = ("\nSomething was not inputed correctly. Please be aware of "
+                  " formatting and be sure to enter a valid option:\n>")
 
     return choice
 
