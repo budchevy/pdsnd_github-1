@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Project Created 12/24/19
+Readme File Created 12/24/19
 
 ### Project Title
-Replace the Project Title
+Bike Share SQL Search
 
 ### Description
-Describe what your project is about and what it does
+This program will allow you to run SQL queries
+for bike rideshare data in several cities and across
+a multitude of time frames.
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+final.py
